@@ -63,5 +63,5 @@ MIT © [Ivan Nikolić](http://ivannikolic.com)
 [ci]: https://travis-ci.com/niksy/advertol-context-media-query
 [ci-img]: https://travis-ci.com/niksy/advertol-context-media-query.svg?branch=master
 [browserstack]: https://www.browserstack.com/
-[browserstack-img]: https://www.browserstack.com/automate/badge.svg?badge_key=
+[browserstack-img]: https://www.browserstack.com/automate/badge.svg?badge_key=Uk5ZSnhVM2NrTm1SUmQxQkxiaDRNWW1Ha0hGZTY0TGRWRjNZYmgxaTFpOD0tLVRTV0tLdDcyV2UxdG5oZHJDWWo1aEE9PQ==--ebc313555d15850b799a231e058c3050ea288cd4
 [media-queries]: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
